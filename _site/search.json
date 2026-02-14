@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site.\nSome stuff I assemebled"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PCC Water Changes Over Time",
+    "section": "",
+    "text": "Data sources:\nUSGS CFS mean daily flow and annual peaks at Wissahickon Creek (measured across Ridge Ave right above the dam), and Fairmount Dam (Schuykill River by the Art Museum, Boathouse Row, etc)",
+    "crumbs": [
+      "Home",
+      "Basics",
+      "PCC Water Changes Over Time"
+    ]
+  },
+  {
+    "objectID": "index.html#placeholder-for-landing-page",
+    "href": "index.html#placeholder-for-landing-page",
+    "title": "PCC Water Changes Over Time",
+    "section": "",
+    "text": "Data sources:\nUSGS CFS mean daily flow and annual peaks at Wissahickon Creek (measured across Ridge Ave right above the dam), and Fairmount Dam (Schuykill River by the Art Museum, Boathouse Row, etc)",
+    "crumbs": [
+      "Home",
+      "Basics",
+      "PCC Water Changes Over Time"
+    ]
+  }
+]

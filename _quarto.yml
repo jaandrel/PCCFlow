@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "PCC Water Data"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    style: "docked" 
+    search: true
+    contents:
+      - section: "Basics"
+        contents: 
+          - index.qmd
+          - background.qmd
+      - section: "USGS Data"
+        contents:
+          - display_explanation.qmd
+          - CFS_data.qmd
+          - peak_data.qmd
+          - Gustine_Lake_Doc.qmd
+
+  page-navigation: true          
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+
+
